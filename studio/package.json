@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "sanity-nextjs-landing-pages-studio",
+  "name": "truck-ape-studio",
   "version": "1.0.6",
   "main": "package.json",
   "author": "Sanity <hello@sanity.io>",
   "scripts": {
-    "build": "sanity build",
+    "build": "sanity build ../web/out/admin -y",
     "dev": "sanity start",
     "test": "sanity check"
   },

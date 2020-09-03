@@ -1,7 +1,8 @@
 {
   "root": true,
   "project": {
-    "name": "Next.js landing pages"
+    "name": "Truck Ape",
+    "basePath": "/admin"
   },
   "api": {
     "projectId": "0amlehab",
